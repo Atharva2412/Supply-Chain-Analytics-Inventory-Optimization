@@ -53,4 +53,4 @@ Companies often face **broken product records, mismatched identifiers, and inacc
 - 🏪 **Operational Efficiency:** Store‑level insights for inventory optimization.  
 
 ### 6.	Screenshots 
- ![Dashboard Preview]()
+ ![Dashboard Preview](https://github.com/Atharva2412/Supply-Chain-Analytics-Inventory-Optimization/blob/main/Dashboard_Pages_Merged.png)
